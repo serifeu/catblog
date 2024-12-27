@@ -50,11 +50,9 @@ body{
       padding: 10px 0;
   }
 
-  .topbar .center {
+  .topbar .left{
       display: none;
   }
-
-  .topbar .left, 
   .topbar .right {
       width: 100%;
       justify-content: center;
